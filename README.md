@@ -1,6 +1,6 @@
 # ARUTECH - ARU Tech Club Website
 
-Welcome to the official website of the ARU Tech Club! This platform serves as a space for the technology enthusiasts of Anglia Ruskin University (ARU) to connect, collaborate, and showcase their skills in the world of technology. Whether you are a coding novice or an experienced professional, ARU Tech Club has something for everyone.
+Welcome to the official website of the ARU Tech Club! This platform serves as a space for the Arsi university technology based club  (ARU) to connect, collaborate, and showcase their skills in the world of technology. Whether you are a coding novice or an experienced professional, ARU Tech Club has something for everyone.
 
 ## Table of Contents
 - [About](#about)
